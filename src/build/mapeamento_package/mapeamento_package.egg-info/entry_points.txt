@@ -1,0 +1,3 @@
+[console_scripts]
+odom_node = mapeamento_package.odom:main
+

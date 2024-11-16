@@ -1,0 +1,47 @@
+running egg_info
+creating ../build/mapeamento_package/mapeamento_package.egg-info
+writing ../build/mapeamento_package/mapeamento_package.egg-info/PKG-INFO
+writing dependency_links to ../build/mapeamento_package/mapeamento_package.egg-info/dependency_links.txt
+writing entry points to ../build/mapeamento_package/mapeamento_package.egg-info/entry_points.txt
+writing requirements to ../build/mapeamento_package/mapeamento_package.egg-info/requires.txt
+writing top-level names to ../build/mapeamento_package/mapeamento_package.egg-info/top_level.txt
+writing manifest file '../build/mapeamento_package/mapeamento_package.egg-info/SOURCES.txt'
+reading manifest file '../build/mapeamento_package/mapeamento_package.egg-info/SOURCES.txt'
+writing manifest file '../build/mapeamento_package/mapeamento_package.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/atwork/caramelo_goiania_final/src/build/mapeamento_package/build
+creating /home/atwork/caramelo_goiania_final/src/build/mapeamento_package/build/lib
+creating /home/atwork/caramelo_goiania_final/src/build/mapeamento_package/build/lib/mapeamento_package
+copying mapeamento_package/odom.py -> /home/atwork/caramelo_goiania_final/src/build/mapeamento_package/build/lib/mapeamento_package
+copying mapeamento_package/__init__.py -> /home/atwork/caramelo_goiania_final/src/build/mapeamento_package/build/lib/mapeamento_package
+running install
+running install_lib
+creating /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/lib/python3.10/site-packages/mapeamento_package
+copying /home/atwork/caramelo_goiania_final/src/build/mapeamento_package/build/lib/mapeamento_package/odom.py -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/lib/python3.10/site-packages/mapeamento_package
+copying /home/atwork/caramelo_goiania_final/src/build/mapeamento_package/build/lib/mapeamento_package/__init__.py -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/lib/python3.10/site-packages/mapeamento_package
+byte-compiling /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/lib/python3.10/site-packages/mapeamento_package/odom.py to odom.cpython-310.pyc
+byte-compiling /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/lib/python3.10/site-packages/mapeamento_package/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/ament_index
+creating /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/ament_index/resource_index
+creating /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/ament_index/resource_index/packages
+copying resource/mapeamento_package -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/ament_index/resource_index/packages
+copying package.xml -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package
+creating /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package/launch
+copying launch/mapping.launch.py -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package/launch
+copying launch/rsp.launch.py -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package/launch
+copying launch/online_async.launch.py -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package/launch
+creating /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package/description
+copying description/inertial_macros.xacro -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package/description
+copying description/camera.xacro -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package/description
+copying description/robot_core.xacro -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package/description
+copying description/laser.xacro -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package/description
+copying description/ros2_control.xacro -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package/description
+copying description/gazebo_control.xacro -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package/description
+copying description/robot.urdf.xacro -> /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/share/mapeamento_package/description
+running install_egg_info
+Copying ../build/mapeamento_package/mapeamento_package.egg-info to /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/lib/python3.10/site-packages/mapeamento_package-0.0.0-py3.10.egg-info
+running install_scripts
+Installing odom_node script to /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/bin
+writing list of installed files to '/home/atwork/caramelo_goiania_final/src/build/mapeamento_package/install.log'

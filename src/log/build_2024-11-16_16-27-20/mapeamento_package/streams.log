@@ -1,0 +1,21 @@
+[0.553s] Invoking command in '/home/atwork/caramelo_goiania_final/src/mapeamento_package': PYTHONPATH=/home/atwork/caramelo_goiania_final/src/build/mapeamento_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/atwork/caramelo_goiania_final/src/install/mapeamento_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/mapeamento_package build --build-base /home/atwork/caramelo_goiania_final/src/build/mapeamento_package/build install --record /home/atwork/caramelo_goiania_final/src/build/mapeamento_package/install.log --single-version-externally-managed install_data
+[0.678s] running egg_info
+[0.678s] writing ../build/mapeamento_package/mapeamento_package.egg-info/PKG-INFO
+[0.678s] writing dependency_links to ../build/mapeamento_package/mapeamento_package.egg-info/dependency_links.txt
+[0.678s] writing entry points to ../build/mapeamento_package/mapeamento_package.egg-info/entry_points.txt
+[0.678s] writing requirements to ../build/mapeamento_package/mapeamento_package.egg-info/requires.txt
+[0.678s] writing top-level names to ../build/mapeamento_package/mapeamento_package.egg-info/top_level.txt
+[0.679s] reading manifest file '../build/mapeamento_package/mapeamento_package.egg-info/SOURCES.txt'
+[0.680s] writing manifest file '../build/mapeamento_package/mapeamento_package.egg-info/SOURCES.txt'
+[0.680s] running build
+[0.680s] running build_py
+[0.680s] running install
+[0.680s] running install_lib
+[0.681s] running install_data
+[0.681s] running install_egg_info
+[0.682s] removing '/home/atwork/caramelo_goiania_final/src/install/mapeamento_package/lib/python3.10/site-packages/mapeamento_package-0.0.0-py3.10.egg-info' (and everything under it)
+[0.682s] Copying ../build/mapeamento_package/mapeamento_package.egg-info to /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/lib/python3.10/site-packages/mapeamento_package-0.0.0-py3.10.egg-info
+[0.682s] running install_scripts
+[0.692s] Installing odom_node script to /home/atwork/caramelo_goiania_final/src/install/mapeamento_package/bin
+[0.692s] writing list of installed files to '/home/atwork/caramelo_goiania_final/src/build/mapeamento_package/install.log'
+[0.705s] Invoked command in '/home/atwork/caramelo_goiania_final/src/mapeamento_package' returned '0': PYTHONPATH=/home/atwork/caramelo_goiania_final/src/build/mapeamento_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/atwork/caramelo_goiania_final/src/install/mapeamento_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/mapeamento_package build --build-base /home/atwork/caramelo_goiania_final/src/build/mapeamento_package/build install --record /home/atwork/caramelo_goiania_final/src/build/mapeamento_package/install.log --single-version-externally-managed install_data
